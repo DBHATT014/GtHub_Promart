@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProMart/.vs/ProMart
+/ProMart/ProMart/obj
+/ProMart/ProMart/bin/Debug/net8.0
